@@ -7,7 +7,7 @@ exports.handler = async (event, context) => {
     };
   }
 
-  const API_KEY = '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';
+  const API_KEY = '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';
 
   try {
     const requestBody = JSON.parse(event.body);
